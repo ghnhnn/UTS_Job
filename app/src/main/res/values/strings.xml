@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Job</string>
+    <string name="job1">Dokter</string>
+    <string name="job2">Guru</string>
+    <string name="job3">Fotografer</string>
+    <string name="job4">Chef</string>
+    <string name="job5">Pemadam Kebakaran</string>
+    <string name="job6">Nelayan</string>
+    <string name="job7">Programmer</string>
+    <string name="job8">Petani</string>
+    <string name="job9">Pramugari</string>
+    <string name="job10">Arsitek</string>
+    <string name="desc1">Profesi yang bergerak di bidang kesehatan sesuai dengan keahliannya.</string>
+    <string name="desc2">Profesi yang memiliki kewenangan dan tugas dalam dunia pendidikan serta pengajaran pada lembaga pendidikan formal.</string>
+    <string name="desc3">Profesi yang memberikan jasa fotografi untuk berbagai tujuan</string>
+    <string name="desc4">Juru masak profesional terlatih yang ahli dalam semua aspek pengolahan makanan dan biasanya fokus pada kuliner tertentu.</string>
+    <string name="desc5">Profesi yang bertugas untuk memadamkan kebakaran.</string>
+    <string name="desc6">Profesi yang  sehari-harinya bekerja menangkap ikan atau biota lainnya yang hidup di dasar, kolom maupun permukaan perairan.</string>
+    <string name="desc7">Profesi yang bertujuan untuk membuat sebuah sistem menggunakan bahasa pemrograman.</string>
+    <string name="desc8">Profesi yang mengusahakan usaha pertanian (tanaman bahan makanan dan tanaman perkebunan rakyat)</string>
+    <string name="desc9">Staf/karyawan perusahaan penerbangan yang bertugas melayani penumpang.</string>
+    <string name="desc10">Profesi yang ahli dalam merancang dan menggambar bangunan, jembatan, dan sebagainya, biasanya sekaligus sebagai penyelia konstruksinya.</string>
+</resources>
